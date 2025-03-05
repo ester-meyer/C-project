@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qg4nbhkAoNc=",
-  "success": false,
-  "projectFilePath": "E:\\מינדי ויהודית\\DotNet2025_1089_0347\\DalList\\DalList.csproj",
+  "dgSpecHash": "BbCRjVX07qvnyHSRel+Wh4FbVcsdL9NpdJYg/rXOTzMaGrco8nZbaMvjJXICkYrQOWWZQs8JQsss7VK3PE9iWw==",
+  "success": true,
+  "projectFilePath": "T:\\יד\\שבבים\\C# מתקדם\\הנחיות הפרויקט\\פרויקטים\\מינדי ויהודית\\from git\\C-project\\project\\DotNet2025_1089_0347\\DalList\\DalList.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1201",
-      "level": "Error",
-      "message": "Project Tools is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project Tools supports: net8.0 (.NETCoreApp,Version=v8.0)",
-      "libraryId": "Tools",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }

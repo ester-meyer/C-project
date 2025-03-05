@@ -30,3 +30,20 @@ E:\מינדי ויהודית\DotNet2025_1089_0347\DelTest\obj\Debug\refint\DelTe
 E:\מינדי ויהודית\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.pdb
 E:\מינדי ויהודית\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.genruntimeconfig.cache
 E:\מינדי ויהודית\DotNet2025_1089_0347\DelTest\obj\Debug\ref\DelTest.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\bin\DelTest.exe
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\bin\DelTest.deps.json
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\bin\DelTest.runtimeconfig.json
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\bin\DelTest.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\bin\DelTest.pdb
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.csproj.AssemblyReference.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.AssemblyInfoInputs.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.AssemblyInfo.cs
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.csproj.CoreCompileInputs.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.sourcelink.json
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.csproj.Up2Date
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DelTest\obj\Debug\refint\DelTest.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.pdb
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DelTest\obj\Debug\DelTest.genruntimeconfig.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DelTest\obj\Debug\ref\DelTest.dll

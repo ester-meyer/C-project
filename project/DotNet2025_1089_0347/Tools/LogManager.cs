@@ -12,7 +12,7 @@ public static class LogManager
     private static string path = "Log";
     public static string CurPathFolder()
     {
-        string dirPath= Path.Combine(path, DateTime.Now.Year.ToString(), DateTime.Now.Month.ToString("D2"));
+        string dirPath = Path.Combine(path, DateTime.Now.Year.ToString(), DateTime.Now.Month.ToString("D2"));
         //$"{path}\\{DateTime.Now.Year}\\{DateTime.Now.Month}";
         if (!Directory.Exists(dirPath))
         {
@@ -34,40 +34,27 @@ public static class LogManager
     public static void ClearLOg()
     {
 
-
-
-
         DateTime cutoffDate = DateTime.Now.AddMonths(-2);
 
-        foreach (string dirYear in Directory.GetDirectories(fullPath))
+        foreach (string dirYear in Directory.GetDirectories(path))
         {
-            
-            if (yearFromPath(dirYear) < cutoffDate.Year)
+            DirectoryInfo dirYInfo = new DirectoryInfo(dirYear);
+            if (dirYInfo.CreationTime.Year < cutoffDate.Year)
             {
                 deleteDir(dirYear);
             }
             else
             {
-                if(yearFromPath(dirYear) <= DateTime.Now.Year)
+                foreach (string dirMonth in Directory.GetDirectories(dirYear))
                 {
-                    foreach (string dirMonth in Directory.GetDirectories(fullPath))
-                    {
-                        if ( cutoffDate.CompareTo(new DateTime(yearFromPath(dirYear), monthFromPath(dirMonth), 1)) < 0)
-                            deleteDir(dirMonth);
-                    }
+                    DirectoryInfo dirMInfo = new DirectoryInfo(dirMonth);
+                    if (dirMInfo.CreationTime < cutoffDate)
+                        deleteDir(dirMonth);
                 }
             }
         }
     }
-    private static int yearFromPath(string dir)
-    {
 
-        return (int)(dir.Substring(dir.Length - 5, dir.Length - 1));
-    }
-    private static int monthFromPath(string dir)
-    {
-        return (int)(dir.SubString(dir.Length - 3, dir.Length - 1));
-    }
     private static void deleteDir(string dir)
     {
         try

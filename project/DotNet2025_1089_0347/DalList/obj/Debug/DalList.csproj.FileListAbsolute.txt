@@ -11,3 +11,17 @@ T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מ
 T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\DotNet2025_1089_0347\DalList\obj\Debug\DalList.pdb
 T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\DotNet2025_1089_0347\DalList\obj\Debug\ref\DalList.dll
 T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\DotNet2025_1089_0347\DalList\obj\Debug\DalList.csproj.Up2Date
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalList\obj\Debug\DalList.AssemblyInfo.cs
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalList\obj\Debug\DalList.sourcelink.json
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalList\obj\Debug\DalList.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalList\obj\Debug\refint\DalList.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalList\obj\Debug\DalList.pdb
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\bin\DalList.deps.json
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\bin\DalList.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\bin\DalList.pdb
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalList\obj\Debug\DalList.csproj.Up2Date
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalList\obj\Debug\ref\DalList.dll

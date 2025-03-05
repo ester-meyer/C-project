@@ -1,10 +1,11 @@
 ﻿using DalApi;
 
-namespace DalList
+namespace Dal
 {
-    sealed internal class DalList:IDal
+    sealed public class DalList:IDal
     {
-        public static DalList Instance { get; } = new DalList();
+        private static readonly DalList instance = new DalList();
+        public static DalList Instance => instance;
         private DalList()
         {
             

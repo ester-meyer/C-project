@@ -20,3 +20,15 @@ E:\מינדי ויהודית\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.
 E:\מינדי ויהודית\DotNet2025_1089_0347\DalFacade\obj\Debug\refint\DalFacade.dll
 E:\מינדי ויהודית\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.pdb
 E:\מינדי ויהודית\DotNet2025_1089_0347\DalFacade\obj\Debug\ref\DalFacade.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\bin\DalFacade.deps.json
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\bin\DalFacade.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\bin\DalFacade.pdb
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.sourcelink.json
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalFacade\obj\Debug\refint\DalFacade.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalFacade\obj\Debug\DalFacade.pdb
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\DalFacade\obj\Debug\ref\DalFacade.dll

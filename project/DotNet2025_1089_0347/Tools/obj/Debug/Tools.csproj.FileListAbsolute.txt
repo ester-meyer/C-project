@@ -1,0 +1,12 @@
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\bin\Tools.deps.json
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\bin\Tools.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\bin\Tools.pdb
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\Tools\obj\Debug\Tools.AssemblyInfo.cs
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\Tools\obj\Debug\Tools.sourcelink.json
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\Tools\obj\Debug\Tools.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\Tools\obj\Debug\refint\Tools.dll
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\Tools\obj\Debug\Tools.pdb
+T:\יד\שבבים\C# מתקדם\הנחיות הפרויקט\פרויקטים\מינדי ויהודית\from git\C-project\project\DotNet2025_1089_0347\Tools\obj\Debug\ref\Tools.dll

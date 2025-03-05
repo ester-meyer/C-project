@@ -2,7 +2,7 @@
 using DalApi;
 
 using Tools;
-namespace DalList;
+namespace Dal;
 
 internal class ProductImplementation:IProduct
 {

@@ -1,7 +1,7 @@
 ﻿using DO;
 using DalApi;
 using Tools;
-namespace DalList;
+namespace Dal;
 
 internal class SaleImplementation : ISale
 {
